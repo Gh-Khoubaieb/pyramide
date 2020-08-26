@@ -1,5 +1,5 @@
 
-projet pyramide 
+<h1> Projet pyramide </h1>
 
 Description du projet:
 
@@ -10,4 +10,4 @@ Le fichier main.js contient le code javascript permettant d'afficher une pyramid
 
 Lien en production du projet pyramide :
 
-https://Gh-Khoubaieb.github.io/pyramide
+https://gh-khoubaieb.github.io/pyramide
